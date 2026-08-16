@@ -1,0 +1,36 @@
+name: FTA Streams Health Check & Update
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Run every 12 hours
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  check-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Stream Health Verification
+        run: python scripts/probe_and_update.py
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add fta_channels.json playlist.m3u
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore(cron): auto-update active stream status [skip ci]"
+            git push
+          else
+            echo "No changes in stream availability."
+          fi
