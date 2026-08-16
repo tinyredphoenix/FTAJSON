@@ -2,25 +2,25 @@
   {
     "name": "DD National HD",
     "group": "Doordarshan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/DD_National_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
   },
   {
     "name": "DD Sports HD",
     "group": "Doordarshan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/DD_Sports_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
   },
   {
     "name": "DD Kisan",
     "group": "Doordarshan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/29/DD_Kisan_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",
     "url": "https://cdn-6.pishow.tv/live/9/master.m3u8"
   },
   {
     "name": "DD Punjabi",
     "group": "Doordarshan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/29/DD_Kisan_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Punjabi.png",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "NDTV India HD",
     "group": "News: Hindi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/NDTV_India_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png",
     "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8"
   },
   {
@@ -50,7 +50,7 @@
   {
     "name": "Republic Bharat HD",
     "group": "News: Hindi",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3c/Republic_Bharat_Logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_Bharat.png",
     "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8"
   },
   {
@@ -62,31 +62,31 @@
   {
     "name": "Zee News HD",
     "group": "News: Hindi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zee_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
     "url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8"
   },
   {
     "name": "Zee Bharat (Hindustan) HD",
     "group": "News: Hindi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zee_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Hindustan.png",
     "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8"
   },
   {
     "name": "Zee Salaam HD",
     "group": "News: Hindi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zee_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
     "url": "https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8"
   },
   {
     "name": "TV9 Bharatvarsh HD",
     "group": "News: Hindi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/TV9_Bharatvarsh_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
     "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8"
   },
   {
     "name": "India TV",
     "group": "News: Hindi",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/India_TV_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png",
     "url": "https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8"
   },
   {
@@ -110,7 +110,7 @@
   {
     "name": "NDTV 24x7 HD",
     "group": "News: English",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/NDTV_24x7_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png",
     "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
   },
   {
@@ -122,13 +122,13 @@
   {
     "name": "Republic TV HD",
     "group": "News: English",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/8/87/Republic_TV_Logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_TV.png",
     "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8"
   },
   {
     "name": "NDTV Profit HD",
     "group": "News: Business",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/NDTV_Profit_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png",
     "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8"
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "CNBC Awaaz HD",
     "group": "News: Business",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CNBC_Awaaz_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8"
   },
   {
@@ -158,13 +158,13 @@
   {
     "name": "Zee Business",
     "group": "News: Business",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Zee_Business_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
     "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8"
   },
   {
     "name": "ET Now Swadesh",
     "group": "News: Business",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Times_Now_Navbharat_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png",
     "url": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8"
   },
   {
@@ -176,13 +176,13 @@
   {
     "name": "EPIC TV HD",
     "group": "Infotainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_Epic_Channel_Logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png",
     "url": "https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8"
   },
   {
     "name": "DocuBay HD",
     "group": "Infotainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/da/DocuBay_Logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DocuBay.png",
     "url": "https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8"
   },
   {
@@ -200,55 +200,55 @@
   {
     "name": "Food Food",
     "group": "Lifestyle",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Food_Food_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
     "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8"
   },
   {
     "name": "9XM HD",
     "group": "Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/9XM_Logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",
     "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8"
   },
   {
     "name": "9X Jalwa HD",
     "group": "Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/9X_Jalwa_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png",
     "url": "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8"
   },
   {
     "name": "9X Tashan HD",
     "group": "Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/9X_Tashan_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png",
     "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
   },
   {
     "name": "9X Jhakaas HD",
     "group": "Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/9X_Jhakaas_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jhakaas.png",
     "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
   },
   {
     "name": "B4U Music",
     "group": "Music",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/B4U_Music_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png",
     "url": "https://cdn-2.pishow.tv/live/415/master.m3u8"
   },
   {
     "name": "Shemaroo TV",
     "group": "Entertainment: FTA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Shemaroo_TV_Logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_TV.png",
     "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8"
   },
   {
     "name": "Zee Cine Classic HD",
     "group": "Movies: FTA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Zee_Cinema_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",
     "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8"
   },
   {
     "name": "Zee Comedy Nation HD",
     "group": "Entertainment: FTA",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zee_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
     "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8"
   },
   {
@@ -272,7 +272,7 @@
   {
     "name": "Aastha Bhajan HD",
     "group": "Devotional",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Aastha_TV_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
     "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8"
   },
   {
@@ -290,7 +290,7 @@
   {
     "name": "Sadhna TV",
     "group": "Devotional",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sanskar_TV_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna.png",
     "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8"
   },
   {
@@ -332,19 +332,19 @@
   {
     "name": "ABP Ganga HD",
     "group": "Regional",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/ABP_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ganga.png",
     "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8"
   },
   {
     "name": "ABP Ananda HD",
     "group": "Regional",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/ABP_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png",
     "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8"
   },
   {
     "name": "Zee 24 Taas HD",
     "group": "Regional",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Zee_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
     "url": "https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8"
   },
   {
@@ -362,13 +362,13 @@
   {
     "name": "DD News HD",
     "group": "Doordarshan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/DD_News_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8"
   },
   {
     "name": "DD India HD",
     "group": "Doordarshan",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/DD_India_logo.png",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
   },
   {
