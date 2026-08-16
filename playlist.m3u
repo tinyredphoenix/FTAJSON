@@ -119,3 +119,11 @@ https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
 #EXTINF:-1 tvg-name="Zee Bihar Jharkhand HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Zee_News_logo.png" group-title="Regional",Zee Bihar Jharkhand HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+#EXTINF:-1 tvg-name="DD News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/DD_News_logo.png" group-title="Doordarshan",DD News HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-name="DD India HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DD_India_logo.png" group-title="Doordarshan",DD India HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-name="DD Bharati" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/DD_Bharati_logo.png" group-title="Doordarshan",DD Bharati
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-name="DD Rajasthan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DD_National_logo.png" group-title="Regional",DD Rajasthan
+https://cdn-1.pishow.tv/live/34/master.m3u8
